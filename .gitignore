@@ -2,3 +2,5 @@ __pycache__/
 manage.py
 db.sqlite3
 djangonautic/settings.py
+media
+migrations
